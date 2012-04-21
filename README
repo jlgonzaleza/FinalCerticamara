@@ -1,0 +1,5 @@
+El proyecto es un proyecto en Maven
+Esta desarrollado en Netbeans 7.1 con jdk 1.7
+Se puede desplegar tanto en un servidor tomcat como en un glassfish(preferiblemente)
+
+Se implementaron ya todos los cambios tanto de visualizacion como de validacion.
